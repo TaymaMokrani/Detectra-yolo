@@ -62,6 +62,5 @@ Example classes include:
 
 Because several apps can appear in the same image, your dataset uses **bounding boxes** (object detection), not classification.
 
-Dataset structure:
 
 
